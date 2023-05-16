@@ -11,6 +11,9 @@ Welcome to the Multimodelling documentation
    :caption: Contents:
 
    introduction/index
+   enduser/index
+   example_use_cases/index
+   technical/index
 
 
 Indices and tables
