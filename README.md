@@ -1,4 +1,4 @@
-# ESDLMapEditorDocs
+# Multimodelling ReadTheDocs
 
 Project for creating the ReadTheDocs pages for the Multimodelling Documentation
 
