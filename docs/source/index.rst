@@ -12,8 +12,10 @@ Welcome to the Multimodelling documentation
 
    introduction/index
    enduser/index
+   energy_models/index
    example_use_cases/index
    technical/index
+   terminology/index
 
 
 Indices and tables
