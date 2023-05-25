@@ -4,7 +4,7 @@ Technical Documentation
 
 General concepts
 ----------------
-every model is a black box
+every model is a black box, but some aren't
 
 orchestration
 
