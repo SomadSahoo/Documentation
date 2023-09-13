@@ -7,7 +7,7 @@ Welcome to the Multimodelling documentation
     So don't hesitate to contact us, whenever you run into problems.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    introduction/index
