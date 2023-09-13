@@ -15,6 +15,7 @@ Welcome to the Multimodelling documentation
    energy_models/index
    example_use_cases/index
    technical/index
+   installation/index
    terminology/index
 
 
