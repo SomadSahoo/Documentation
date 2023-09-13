@@ -3,25 +3,10 @@ Energy Models
 
 The following energy models are used in this project (alphabetic ordering)
 
-CTM
----
-
-EPS
----
-
-ESSIM
------
-
-More information :ref:`ESSIM (Energy System Simulator)`
-
-ETM
----
-
-MOTER
------
-
-OPERA
------
-
-TEACOS
-------
+- :ref:`Carbon Transition Model (CTM)`
+- :ref:`Energy Potential Scan (EPS)`
+- :ref:`ESSIM (Energy System Simulator)`
+- :ref:`ETM (Energy Transition Model)`
+- :ref:`MOTER (Modeler of Three Energy Regimes)`
+- :ref:`OPERA`
+- :ref:`TEACOS`
