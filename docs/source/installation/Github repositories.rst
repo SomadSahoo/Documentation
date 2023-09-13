@@ -10,7 +10,7 @@ Generic repositories
 - `Model-Orchestrator <https://github.com/MultiModelling/Model-Orchestrator>`_: For setting up Apache Airflow as the orchectrator
 - `Database-MinIO <https://github.com/MultiModelling/Database-MinIO>`_: For setting up Minio as the intermediate model storage
 - `Model-Registry <https://github.com/MultiModelling/Model-Registry>`_: a simple model registry implementation
-- `Model-Deplotyment <https://github.com/MultiModelling/Model-Deployment>`_: Some scripts to automatically deploy multi-model stacks
+- `Model-Deployment <https://github.com/MultiModelling/Model-Deployment>`_: Some scripts to automatically deploy multi-model stacks
 
 - `Model-Repository <https://github.com/MultiModelling/Model-Repository>`_: contains example workflow configurations for the three use cases considered in the MMvIB project
 - `Documentation <https://github.com/MultiModelling/Documentation>`_: the source of this documentation page
