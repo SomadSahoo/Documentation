@@ -17,12 +17,12 @@ Generic repositories
 
 Model adapter repositories
 --------------------------
-- `Adapter-CTM <https://github.com/MultiModelling/Adapter-CTM>`_: ...
-- `Adapter-ESSIM <https://github.com/MultiModelling/Adapter-ESSIM>`_: ...
-- `Adapter-ETM-KPIs <https://github.com/MultiModelling/Adapter-ETM-KPIs>`_: ...
-- `Adapter-Regionalization <https://github.com/MultiModelling/Adapter-Regionalization>`_: ...
-- `moter-adapter <https://github.com/MultiModelling/moter-adapter>`_: ...
-- `teacos-adapter <https://github.com/MultiModelling/teacos-adapter>`_: ...
+- `Adapter-CTM <https://github.com/MultiModelling/Adapter-CTM>`_: The CTM adapter for the MMvIB project
+- `Adapter-ESSIM <https://github.com/MultiModelling/Adapter-ESSIM>`_: The ESSIM adapter for the MMvIB project
+- `Adapter-ETM-KPIs <https://github.com/MultiModelling/Adapter-ETM-KPIs>`_: The ETM adapter for the MMvIB project
+- `Adapter-Regionalization <https://github.com/MultiModelling/Adapter-Regionalization>`_: Adapter for the regionalization module
+- `moter-adapter <https://github.com/MultiModelling/moter-adapter>`_: The MOTER adapter for the MMvIB project
+- `teacos-adapter <https://github.com/MultiModelling/teacos-adapter>`_: The TEACOS adapter for the MMvIB project
 
 AIMMS based model adapter template repository
 ---------------------------------------------
@@ -30,7 +30,11 @@ AIMMS based model adapter template repository
 
 Repositories for simple adapters used for initial testing
 ---------------------------------------------------------
-- `Adapter-ESDL-Add-Price-Profile  <https://github.com/MultiModelling/Adapter-ESDL-Add-Price-Profile>`_: ...
-- `Adapter-ETM-Price-Profile <https://github.com/MultiModelling/Adapter-ETM-Price-Profile>`_: ...
+- `Adapter-ESDL-Add-Price-Profile  <https://github.com/MultiModelling/Adapter-ESDL-Add-Price-Profile>`_: Demo adapter
+that adds a price profile to an ESDL energy system. This is a 'special' adapter as it doesn't call any external model, all
+logic is implemented by the adapter itself.
+- `Adapter-ETM-Price-Profile <https://github.com/MultiModelling/Adapter-ETM-Price-Profile>`_: Demo adapter that retrieves an
+electricity price profile from the ETM.
 
-- `AIMMS-ESDL <https://github.com/MultiModelling/AIMMS-ESDL>`_: ...
+- `AIMMS-ESDL <https://github.com/MultiModelling/AIMMS-ESDL>`_: Generic repository with code to create a SQL database out
+of an ESDL file that can be used by an AIMMS based model. This code is used by the MOTER, Opera and TEACOS adapter
