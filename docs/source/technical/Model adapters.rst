@@ -20,7 +20,7 @@ The following picture shows the interaction between the handler (inside Airflow)
 
 Model adapter REST API
 ----------------------
-Every adapter should implement the follwoing endpoints:
+Every adapter should implement the following endpoints:
 
 -	GET /request
 
