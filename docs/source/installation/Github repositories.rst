@@ -30,11 +30,7 @@ AIMMS based model adapter template repository
 
 Repositories for simple adapters used for initial testing
 ---------------------------------------------------------
-- `Adapter-ESDL-Add-Price-Profile  <https://github.com/MultiModelling/Adapter-ESDL-Add-Price-Profile>`_: Demo adapter
-that adds a price profile to an ESDL energy system. This is a 'special' adapter as it doesn't call any external model, all
-logic is implemented by the adapter itself.
-- `Adapter-ETM-Price-Profile <https://github.com/MultiModelling/Adapter-ETM-Price-Profile>`_: Demo adapter that retrieves an
-electricity price profile from the ETM.
+- `Adapter-ESDL-Add-Price-Profile  <https://github.com/MultiModelling/Adapter-ESDL-Add-Price-Profile>`_: Demo adapter that adds a price profile to an ESDL energy system. This is a 'special' adapter as it doesn't call any external model, all logic is implemented by the adapter itself.
+- `Adapter-ETM-Price-Profile <https://github.com/MultiModelling/Adapter-ETM-Price-Profile>`_: Demo adapter that retrieves and stores an electricity price profile from the ETM.
 
-- `AIMMS-ESDL <https://github.com/MultiModelling/AIMMS-ESDL>`_: Generic repository with code to create a SQL database out
-of an ESDL file that can be used by an AIMMS based model. This code is used by the MOTER, Opera and TEACOS adapter
+- `AIMMS-ESDL <https://github.com/MultiModelling/AIMMS-ESDL>`_: Generic repository with code to create a SQL database out of an ESDL file that can be used by an AIMMS based model. This code is used by the MOTER, Opera and TEACOS adapter
