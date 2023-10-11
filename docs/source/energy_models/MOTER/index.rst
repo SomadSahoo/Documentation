@@ -139,8 +139,8 @@ intraday snapshot order first (night, morning, afternoon, evening) and then the 
 1st –> December 31st). This 'proper time ordering' is important when optimizing energy storage systems that perform both
 intraday and seasonal balancing functions.
 
-.. figure:: images/MOTER-model.png
-   :width: 800
+.. figure:: images/Time-slices.png
+   :width: 500
    :alt: Example of defining the time slices that serve as 'proxies' for the reconstruction of full year dynamics.
 
    Example of defining the time slices that serve as 'proxies' for the reconstruction of full year dynamics.
