@@ -146,3 +146,7 @@ intraday and seasonal balancing functions.
    Example of defining the time slices that serve as 'proxies' for the reconstruction of full year dynamics.
 
 For more information see `Netbeheer Nederland datasheet about MOTER <https://www.netbeheernederland.nl/_upload/Files/Rekenmodellen_21_dd7baea363.pdf>`_
+
+Additional documentation
+----------------------------
+Note that more documentation about MOTER on the TU-Delft server can be found under AIMMS_models
