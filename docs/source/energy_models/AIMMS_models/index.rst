@@ -134,6 +134,7 @@ Once you have finished with the server, please ensure that you always disconnect
 Use different ESDL files
 -----------
 To use a different input and output ESDL, you need to follow these steps:
+
 **Step 1:** Add ESDL to Minio
 Navigate to 'multi-model.tbm.tudelft.nl:9000' and log in. Click on 'moter-test' in the object browser:
 
@@ -177,6 +178,7 @@ To create a new adapter in TU Delft, it is necessary to create a new Windows ser
    :alt: Creation of new service
 
 This service is the service that needs to be stopped/started in the steps described in other parts of this document. Therefore, one can create a .bat file similar to the one below::
+
     D:
     call D:\MOTER\moter-adapter\.venv\Scripts\activate.bat
     cd D:\MOTER\moter-adapter
@@ -189,7 +191,7 @@ This service is the service that needs to be stopped/started in the steps descri
    :alt: Bat file
 
 After the creation of this .bat file. One can create a service with this using WinSW:
-https://github.com/winsw/winsw
+https://github.com/winsw/winsw.
 Following these steps, we used the following moter_service.xml::
     <service>
       <id>PythonMOTERAdapterService</id>
