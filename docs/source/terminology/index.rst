@@ -1,6 +1,6 @@
 
 =================
-MMviB Terminology
+Terminology
 =================
 
 Last updated: October 18, 2023, Yilin Huang, Delft University of
