@@ -501,7 +501,7 @@ List of Terms in Alphabetical order
 |              | the modelled system is observed and experimented      |
 |              | with.                                                 |
 +--------------+-------------------------------------------------------+
-| Exp          | Experimentation is a general term that refers to      |
+| Exp\         | Experimentation is a general term that refers to      |
 | erimentation | *conducting experiments* in a collective sense. It is |
 |              | the activity of conducting different experiments      |
 |              | driven by different experimental goals.               |
@@ -559,8 +559,8 @@ List of Terms in Alphabetical order
 |              | dynamic data.                                         |
 +--------------+-------------------------------------------------------+
 | Model        | In MMviB, model orchestration refers to the overall   |
-| o            | management and automation of a multi-model            |
-| rchestration | experiment.                                           |
+| orchestration| management and automation of a multi-model            |
+|              | experiment.                                           |
 +--------------+-------------------------------------------------------+
 | Model        | In MMviB, a model orchestrator is responsible for     |
 | orchestrator | model orchestration. An orchestrator controls a       |
@@ -617,8 +617,8 @@ List of Terms in Alphabetical order
 |              | purpose.                                              |
 +--------------+-------------------------------------------------------+
 | Multi-model  | A multi-model configuration defines a set of data     |
-| c            | (via static data) to set up a multi-model experiment, |
-| onfiguration | with respect to an experimental goal. A multi-model   |
+| configuration| (via static data) to set up a multi-model experiment, |
+|              | with respect to an experimental goal. A multi-model   |
 |              | configuration is associated to a given multi-model    |
 |              | workflow.                                             |
 +--------------+-------------------------------------------------------+
@@ -639,7 +639,7 @@ List of Terms in Alphabetical order
 |              | parameters), and (2) a multi-model configuration.     |
 +--------------+-------------------------------------------------------+
 | Multi-model  | In MMviB, multi-model infrastructure refers to all    |
-| in           | facilitating services (including software and         |
+| in\          | facilitating services (including software and         |
 | frastructure | methods) that enable multi-modelling. The multi-model |
 |              | infrastructure does not include the individual        |
 |              | independent models themselves.                        |
@@ -656,7 +656,7 @@ List of Terms in Alphabetical order
 |              | experimental outputs given a predefined modelling     |
 |              | purpose.                                              |
 +--------------+-------------------------------------------------------+
-| Mul          | In MMviB, multi-modelling refers to multi-model       |
+| Mul\         | In MMviB, multi-modelling refers to multi-model       |
 | ti-modelling | constitution as well as multi-model experimentation.  |
 +--------------+-------------------------------------------------------+
 | Operational  | Operational goals have a short-term planning horizon. |
